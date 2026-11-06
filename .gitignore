@@ -1,1 +1,6 @@
 .DS_Store
+*.dta
+*.log
+*.smcl
+data/
+output/
